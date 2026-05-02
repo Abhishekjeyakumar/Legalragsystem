@@ -1,0 +1,42 @@
+# Environment variables - NEVER commit this
+.env
+
+# Qdrant persistent storage
+qdrant_storage/
+
+# Uploaded documents
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
