@@ -1,3 +1,4 @@
+
 """
 Legal Document Q&A System — Main Streamlit Application
 Upload law books (PDF/DOCX), ask questions, and get cited answers.
